@@ -14,10 +14,10 @@ After that, We will use the trained model to build the application.
 EEG Equipment: Open BCI 16 channels
 Datasets: Seed
 ## Library Required ##
-【NumPy】（https://numpy.org/）
-【SciPy】（https://scipy.org/）
-【scikit-learn】（https://scikit-learn.org/stable/）
-【matplotlib】（https://matplotlib.org/）
+[NumPy](https://numpy.org/)
+[SciPy](https://scipy.org/)
+[scikit-learn](https://scikit-learn.org/stable/)
+[matplotlib](https://matplotlib.org/)
 For running Application, you may need to install extra package:
 
 For Window you need to check in the Python install the optional feature
