@@ -49,8 +49,12 @@ brew install python-tk@(Your python version)
 
 [LIANG TAO_VK](https://vk.com/snyderlt)
 
+Email ： blueberryjam0819@gmail.com
+
 ## mentor ##
 
 **Добренко Наталья Викторовна**
 
 ## Notes ##
+
+_If you find any problems in the text or code, please contact me_
