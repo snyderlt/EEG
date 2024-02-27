@@ -15,18 +15,16 @@ EEG Equipment: Open BCI 16 channels
 Datasets: Seed
 ## Library Required ##
 [NumPy](https://numpy.org/)
+
 [SciPy](https://scipy.org/)
-[scikit-learn](https://scikit-learn.org/stable/)
-[matplotlib](https://matplotlib.org/)
+
+[Scikit-Learn](https://scikit-learn.org/stable/)
+
+[Matplotlib](https://matplotlib.org/)
+
 For running Application, you may need to install extra package:
 
-For Window you need to check in the Python install the optional feature
-
-```
-tcl/tk and IDLE
-```
-
-while installing python.
+For Window you need to check in the Python install the optional feature tcl/tk and IDL while installing python.
 
 For mac you need to install python-tk:
 
