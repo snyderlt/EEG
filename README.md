@@ -40,7 +40,7 @@ For Window you need to check in the Python install the optional feature tcl/tk a
 For mac you need to install python-tk:
 
 ```
-- brew install python-tk@(Your python version)
+brew install python-tk@(Your python version)
 ```
 
 
