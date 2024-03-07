@@ -4,6 +4,18 @@
 
 This is the graduation thesis from Liang Tao, a fourth-year student at ITMO University.
 
+## Participant ##
+
+**LIANG TAO**
+
+[LIANG TAO_VK](https://vk.com/snyderlt)
+
+Email ： blueberryjam0819@gmail.com
+
+## MENTOR ##
+
+**Добренко Наталья Викторовна**
+
 ## Run ##
 
 In order to run feature extraction you need to request the Seed Dataset, you need to apply for it, download the dataset and copy the SEED folder to the root directory.
@@ -44,17 +56,6 @@ brew install python-tk@(Your python version)
 ```
 
 
-## Participant ##
-
-**LIANG TAO**
-
-[LIANG TAO_VK](https://vk.com/snyderlt)
-
-Email ： blueberryjam0819@gmail.com
-
-## mentor ##
-
-**Добренко Наталья Викторовна**
 
 ## Notes ##
 
